@@ -1,0 +1,49 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. How much does a porta potty rental cost per day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The porta potty rental prices vary based on the type of unit, rental duration, and delivery location. Standard units are the most affordable, while luxury portable bathrooms cost more due to amenities. Contact us for a specific quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. Do you offer same-day delivery for emergencies?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Emergency temporary toilet rental is available with 4–8 hour response in most metro areas in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Are your ADA units available for home use?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. ADA-compliant portable restroom rental is available for private events, medical needs, or accessibility requirements nationwide.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How often are flushable units serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard service is once per week. High-use events may require twice-weekly cleanings to maintain freshwater levels and waste capacity.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Do handwashing stations need water hookups?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. All portable toilets with handwashing stations are self-contained with onboard freshwater tanks—no external plumbing needed</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. Do you service rural areas?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We serve remote locations in Texas, around Arizona, and across the U.S.—just provide clear access instructions.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
